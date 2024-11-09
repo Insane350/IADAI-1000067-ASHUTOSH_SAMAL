@@ -104,6 +104,7 @@ pose.close()
 Once the loop completes (either the video ends or there are no more frames), cap.release() closes the video file, and pose.close() releases the resources used by the MediaPipe model. This step is essential for efficient memory management.
 
 Summary of Project Workflow
+
 Preparation and Research: Research was conducted to identify the best tools and methods for pose detection. The environment (VS Code) and necessary extensions were set up, and Python libraries were installed.
 
 Data Collection: Twelve videos were downloaded, converted to .avi format, and used to create a dataset. Three gestures (clap, walk, run) were selected for model training and testing.

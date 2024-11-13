@@ -45,3 +45,9 @@ For Smile:
 
 
 Link to github repositary: https://github.com/Insane350/IADAI-1000067-ASHUTOSH_SAMAL
+
+
+
+here is the screenshot of the F1 score and confusion matrix:- 
+![WhatsApp Image 2024-11-12 at 22 05 13_3f2f6874](https://github.com/user-attachments/assets/93880e2e-89f4-4cfa-8f51-7713b66fd56a)
+
